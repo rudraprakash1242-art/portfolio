@@ -1,0 +1,28 @@
+# Rudra Prakash Dubey
+
+Personal portfolio of Rudra Prakash Dubey, a first-year B.Sc. Artificial Intelligence and Machine Learning student in India.
+
+## About
+Rudra is building foundational programming and problem-solving skills with an interest in Artificial Intelligence, Machine Learning, and software development. His stated career goal is to become an AI/ML Engineer.
+
+## Current skills
+- Python: basic programming and problem-solving
+- C++: currently learning
+- Programming fundamentals, logical thinking, introductory AI/ML concepts
+
+## Education
+- B.Sc. Artificial Intelligence & Machine Learning, First Year — Pillai HOC College of Arts, Science and Commerce
+- Higher Secondary Certificate (Science), Maharashtra State Board, 2026
+- Secondary School Certificate, Maharashtra State Board, 2024
+
+## Certification
+AI Masterclass — Certificate of Appreciation, Maharashtra Knowledge Corporation Limited (MKCL). Participation in a 60-minute AI Master Class during MKCL's 25th anniversary celebration.
+
+## Projects
+No completed projects are currently listed. This portfolio has a placeholder section for future projects.
+
+## Contact
+Email: rudraprakash14345@gmail.com
+LinkedIn: https://www.linkedin.com/in/rudraprakash-dubey-80ba18449
+GitHub: https://github.com/rudraprakash1242-art
+Instagram: https://www.instagram.com/ig.rudra.11/

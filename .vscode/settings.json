@@ -1,0 +1,33 @@
+{
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#1c1c1c",
+        "activityBar.activeBorder": "#e7e7e7",
+        "activityBar.background": "#1c1c1c",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#606020",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "activityBarTop.activeBackground": "#1c1c1c",
+        "activityBarTop.activeBorder": "#e7e7e7",
+        "activityBarTop.background": "#1c1c1c",
+        "activityBarTop.foreground": "#e7e7e7",
+        "activityBarTop.inactiveForeground": "#e7e7e799",
+        "commandCenter.border": "#e7e7e799",
+        "commandCenter.foreground": "#e7e7e7",
+        "sash.hoverBorder": "#1c1c1c",
+        "statusBar.background": "#030303",
+        "statusBar.debuggingBackground": "#030303",
+        "statusBar.debuggingForeground": "#e7e7e7",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBar.inactiveBackground": "#030303",
+        "statusBarItem.hoverBackground": "#1c1c1c",
+        "statusBarItem.remoteBackground": "#782828",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#030303",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#03030399",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#030303"
+}
